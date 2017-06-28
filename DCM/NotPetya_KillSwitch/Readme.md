@@ -19,6 +19,6 @@ If "killswitch" files exist, it checks for the ReadOnly attribute being $True. I
 
 The file "NotPetya_KillSwitchFiles_SCCM_DCM.cab" is importable directly into ConfigMgr (Tested in 1702 CB).
 
-Link to file: [https://github.com/jonathanweinberg/ConfigMgr/tree/master/DCM/NotPetya_KillSwitch/NotPetya_KillSwitchFiles_SCCM_DCM.cab](https://github.com/jonathanweinberg/ConfigMgr/tree/master/DCM/NotPetya_KillSwitch/NotPetya_KillSwitchFiles_SCCM_DCM.cab)
+Download here: [https://github.com/jonathanweinberg/ConfigMgr/tree/master/DCM/NotPetya_KillSwitch/NotPetya_KillSwitchFiles_SCCM_DCM.cab](https://github.com/jonathanweinberg/ConfigMgr/tree/master/DCM/NotPetya_KillSwitch/NotPetya_KillSwitchFiles_SCCM_DCM.cab)
 
 Extract of the above CAB \ views of the XML contents:
