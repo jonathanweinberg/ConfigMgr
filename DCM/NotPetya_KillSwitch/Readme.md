@@ -1,4 +1,14 @@
-# Why use this
+# #Petya \ #NotPetya Threat Overview
+
+## Consise Overview
+
+[https://www.binarydefense.com/petya-ransomware-without-fluff/](https://www.binarydefense.com/petya-ransomware-without-fluff/)
+
+## Technical Overview
+
+[https://blogs.technet.microsoft.com/mmpc/2017/06/27/new-ransomware-old-techniques-petya-adds-worm-capabilities/](https://blogs.technet.microsoft.com/mmpc/2017/06/27/new-ransomware-old-techniques-petya-adds-worm-capabilities/)
+
+## Why use this
 
 The current variant of #Petya \ #NotPetya, has a check for the existence of this file "c:\Windows\perfc"
 
